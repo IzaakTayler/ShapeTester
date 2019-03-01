@@ -1,0 +1,9 @@
+class ShapeTester {
+	public static void(String args []) {
+		Box b1;
+		Sphere s1;
+		Pyramid p1;
+	}
+	getVolume
+	getSurfaceArea
+}
