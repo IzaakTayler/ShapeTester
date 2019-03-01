@@ -1,0 +1,19 @@
+class pyramid {}
+	int l;
+	int w;
+	int h;
+
+	public Box(int b, int h) {
+		this.l = l;
+		this.w = w;
+		this.h = h;
+	}
+	public double getVolume() {
+		double val;
+		return val = l*w*h/3;
+	}
+	public double getSurfaceArea() {
+		double val2;
+		return val2 = l*w+l*(sqrt(w/2)*(w/2)+h*h+w (sqrt(l/2)*(l/2)+h*h;
+	}
+}
