@@ -1,0 +1,18 @@
+class sphere {}
+
+	int r;
+	int d;
+
+	public Box(int r, int d) {
+		this.r = r;
+		this.d = d;
+	}
+	public double getVolume() {
+		double val;
+		return val = 4/3πr*r*r ;
+	}
+	public double getSurfaceArea() {
+		double val2;
+		return val2 = 4πr*r ;
+	}
+}
